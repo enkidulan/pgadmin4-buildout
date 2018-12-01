@@ -14,4 +14,13 @@ To change running port or version of ``pgAdmin4`` edit following options in ``bu
     pgadmin4-version = 3.6
 
 To have it's installed run ``buildout``.
-You can install ``buildout`` with ``pip``.
+You can install ``buildout`` with ``pip``. 
+
+
+.. code-block:: bash
+
+    cd pgadmin4-buildout
+    pip install zc.buildout
+    buildout
+    
+After installation is done, open  `127.0.0.1:5050 <http://127.0.0.1:5050/>`_.
