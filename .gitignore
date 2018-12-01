@@ -1,0 +1,10 @@
+.installed.cfg
+__pycache__/
+bin/
+circus.ini
+config_local.py
+eggs/
+error_instance.log
+instance.log
+pgadmin4_wsgi.py
+venv
