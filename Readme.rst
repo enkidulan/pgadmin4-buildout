@@ -24,3 +24,5 @@ You can install ``buildout`` with ``pip``.
     buildout
     
 After installation is done, open  `127.0.0.1:5050 <http://127.0.0.1:5050/>`_.
+
+Tested only in python 3.6 and 3.7.
