@@ -8,3 +8,6 @@ error_instance.log
 instance.log
 pgadmin4_wsgi.py
 venv
+parts/
+var/
+Pipfile.lock
