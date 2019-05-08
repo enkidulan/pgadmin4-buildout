@@ -11,3 +11,7 @@ venv
 parts/
 var/
 Pipfile.lock
+lib/
+lib64
+pip-selfcheck.json
+pyvenv.cfg
