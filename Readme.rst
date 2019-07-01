@@ -11,7 +11,7 @@ To change running port or version of ``pgAdmin4`` edit following options in ``bu
 .. code-block:: ini
 
     port = 5050
-    pgadmin4-version = 4.8
+    pgadmin4-version = 4.9
 
 To have it's installed run ``buildout``.
 You can install ``buildout`` with ``pip``. 
